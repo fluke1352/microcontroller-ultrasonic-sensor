@@ -9,10 +9,15 @@
 
 ## อุปกรณ์
 1.ultrasonic sensor รุ่น HC-SR04
+
 ![MICROCONTROLLERULTRASONICSENSORSCHEMATIC](https://gb.lnwfile.com/ir48b6.png)
+
 2.บอร์ด arduino uno
+
 ![MICROCONTROLLERULTRASONICSENSORSCHEMATIC](https://o.lnwfile.com/g04196.jpg)
+
 3.7 segment 4 digit
+
 ![MICROCONTROLLERULTRASONICSENSORSCHEMATIC](https://ae01.alicdn.com/kf/HTB1nAEtc7voK1RjSZFNq6AxMVXat/Tm1637-4-led-0-56-0-56-7-arduino.jpg)
 
 ## ผังงาน
