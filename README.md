@@ -1,5 +1,6 @@
 ## อุปกรณ์วัดส่วนสูงแบบกะทัดรัด
 ## บทนำ
+![MICROCONTROLLERULTRASONICSENSOR2](https://user-images.githubusercontent.com/56569795/81039242-ac1bc980-8ed2-11ea-9109-f7a6e7ccab23.jpg)
 
 
 
@@ -11,6 +12,8 @@
 
 
 ## ผังงาน
+![MICROCONTROLLERULTRASONICSENSORSCHEMATIC](https://user-images.githubusercontent.com/56569795/81039152-63641080-8ed2-11ea-84a2-0c6badaa1189.jpg)
+![MICROCONTROLLERULTRASONICSENSORSCHEMATIC2](https://user-images.githubusercontent.com/56569795/81039161-6c54e200-8ed2-11ea-9ba5-a45be2c0bdff.jpg)
 
 
 
@@ -64,3 +67,5 @@ void loop() {
   else{display.print(distance);}
 }
 ~~~~~~~~~
+## ภาพ
+![MICROCONTROLLERULTRASONICSENSOR](https://user-images.githubusercontent.com/56569795/81038956-e0db5100-8ed1-11ea-908e-b02f21f80e4b.jpg)
