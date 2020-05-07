@@ -2,12 +2,6 @@
 link:https://youtu.be/wkeyyy1Nvvw
 ## บทนำ
 อุปกรณ์วัดส่วนสูงแบบกะทัดรัด ถูกออกแบบมาเพื่อวัดระยะที่ไม่สามารถใช้ไม้บรรทัดหรือตลับเมตรวัดได้อย่างะดวกจึงได้สร้างอุปกรณ์อำนวยความสะดวกสำหลับงานบางชนิดเช่นงานชั่ง,วัดส่วนสูง
-![MICROCONTROLLERULTRASONICSENSOR2](https://user-images.githubusercontent.com/56569795/81039242-ac1bc980-8ed2-11ea-9109-f7a6e7ccab23.jpg)
-
-
-
-
-
 
 ## อุปกรณ์
 1.ultrasonic sensor รุ่น HC-SR04
@@ -78,6 +72,8 @@ void loop() {
   else{display.print(distance);}
 }
 ~~~~~~~~~
+## หัวข้อหลักการทำงาน
+![MICROCONTROLLERULTRASONICSENSOR2](https://user-images.githubusercontent.com/56569795/81039242-ac1bc980-8ed2-11ea-9109-f7a6e7ccab23.jpg)
 ## ภาพ
 ![MICROCONTROLLERULTRASONICSENSOR](https://user-images.githubusercontent.com/56569795/81038956-e0db5100-8ed1-11ea-908e-b02f21f80e4b.jpg)
 
