@@ -15,6 +15,9 @@
 3.7 segment 4 digit
 
 ![MICROCONTROLLERULTRASONICSENSORSCHEMATIC](https://ae01.alicdn.com/kf/HTB1nAEtc7voK1RjSZFNq6AxMVXat/Tm1637-4-led-0-56-0-56-7-arduino.jpg)
+4.Jumper Arduino
+![MICROCONTROLLERULTRASONICSENSORSCHEMATIC](https://cu.lnwfile.com/ea1jr8.jpg)
+
 
 ## ผังงาน
 ![MICROCONTROLLERULTRASONICSENSORSCHEMATIC](https://user-images.githubusercontent.com/56569795/81039152-63641080-8ed2-11ea-84a2-0c6badaa1189.jpg)
