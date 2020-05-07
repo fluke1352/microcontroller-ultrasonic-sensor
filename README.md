@@ -82,5 +82,5 @@ void loop() {
 ![MICROCONTROLLERULTRASONICSENSOR](https://user-images.githubusercontent.com/56569795/81038956-e0db5100-8ed1-11ea-908e-b02f21f80e4b.jpg)
 
 ## สมาชิก
-> | นายกวิน ลิมะวรารัตน์ |
-> | 62070008|
+> นายกวิน ลิมะวรารัตน์ 62070008
+> 0 
